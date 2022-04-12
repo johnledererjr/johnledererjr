@@ -7,4 +7,4 @@
 - Contact me via email: johnaledererjr@gmail.com
 
 Connect with me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/john-lederer-jr/)
-&nbsp;
+&nbsp;!
