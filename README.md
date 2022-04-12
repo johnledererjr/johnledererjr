@@ -8,6 +8,5 @@
 
 Connect with me on LinkedIn!
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/johnledererjr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/johnledererjr#gh-dark-mode-only)
-&nbsp;&nbsp;
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/john-lederer-jr/)
+&nbsp;
