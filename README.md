@@ -7,4 +7,4 @@
 - Contact me via email: johnaledererjr@gmail.com
 
 Connect with me on LinkedIn!
-<a href="https://www.linkedin.com/in/john-lederer-jr/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/john-lederer-jr/"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
