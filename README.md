@@ -8,4 +8,4 @@
 
 ## Connect with me on LinkedIn!
 
-[![website](./img/linkedin)](https://www.linkedin.com/in/john-lederer-jr/)
+<a href="https://www.linkedin.com/in/john-lederer-jr/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
