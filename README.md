@@ -1,4 +1,4 @@
-### Hello! I'm John Lederer Jr 👋
+# Hello! I'm John Lederer Jr 👋
 
 ## I'm a senior pursuing a B.S. in Statistics at University of Illinois at Urbana-Champaign, graduating in May.
 
